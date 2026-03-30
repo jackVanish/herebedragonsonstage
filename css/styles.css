@@ -1,7 +1,12 @@
 body {
-	background-image: "/images/HereBeDragons-PosterTextless2026.jpg";
+	background-image: url("/images/HereBeDragons-PosterTextless2026.jpg");
+	background-size: 100% auto;
 }
 
-p {
+div {
+	text-align:center;
+}
+
+h1, h2, p {
 	color: #D9C9A5;
 }
