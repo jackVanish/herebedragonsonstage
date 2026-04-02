@@ -5,7 +5,7 @@ body {
 
 div.mainContent {
 	text-align:center;
-	padding-top:5em;
+	padding-top:5rem;
 }
 
 h1, h2, p {
@@ -20,4 +20,6 @@ p, a {
 
 .contentPane {
 	display:inline-block;
+	margin-left:4rem;
+	margin-right:4rem;
 }
