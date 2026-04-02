@@ -3,20 +3,21 @@ body {
 	background-size: 100% auto;
 }
 
-div {
+div.mainContent {
 	text-align:center;
+	padding-top:5em;
 }
 
 h1, h2, p {
-	color: #D9C9A5;
+	/**color: #D9C9A5;**/
+	color:black;
 }
 
-p {
+p, a {
 	font-family:sans-serif;
 	font-weight:bold;
 }
 
 .contentPane {
-	/*width:50%;*/
 	float:left;
 }
