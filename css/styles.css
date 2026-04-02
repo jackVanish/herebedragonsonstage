@@ -11,6 +11,12 @@ h1, h2, p {
 	color: #D9C9A5;
 }
 
+p {
+	font-family:sans-serif;
+	font-weight:bold;
+}
+
 .contentPane {
-	width:50%;
+	/*width:50%;*/
+	float:left;
 }
