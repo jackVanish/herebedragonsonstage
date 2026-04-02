@@ -10,3 +10,7 @@ div {
 h1, h2, p {
 	color: #D9C9A5;
 }
+
+div.contentPane {
+	width:50%;
+}
