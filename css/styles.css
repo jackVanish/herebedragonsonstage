@@ -23,6 +23,7 @@ p, a {
 	display:inline-block;
 	margin-left:4rem;
 	margin-right:4rem;
+	width:50%;
 }
 
 img.headshot {
