@@ -24,3 +24,11 @@ p, a {
 	margin-left:4rem;
 	margin-right:4rem;
 }
+
+img.headshot {
+	width:30%;
+}
+
+.bio {
+	text-align:left;
+}
