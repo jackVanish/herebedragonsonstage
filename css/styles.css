@@ -7,9 +7,12 @@ div.mainContent {
 	text-align:center;
 	margin-top:5rem;
 	background-color:#f5f5f542;
-	display:flex;
 	/*display:grid;
 	grid-template-columns:auto auto;*/
+}
+
+row {
+	display:flex;
 }
 
 column {
@@ -27,8 +30,8 @@ p, a {
 }
 
 .contentPane {
-	display:inline-block;
-	/*margin-left:4rem;
+	/*display:inline-block;
+	margin-left:4rem;
 	margin-right:4rem;
 	width:30%;*/
 }
