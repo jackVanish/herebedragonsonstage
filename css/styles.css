@@ -11,11 +11,11 @@ div.mainContent {
 	grid-template-columns:auto auto;*/
 }
 
-row {
+.row {
 	display:flex;
 }
 
-column {
+.column {
 	flex:50%;
 }
 
