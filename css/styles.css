@@ -1,6 +1,7 @@
 body {
 	background-image: url("/images/HereBeDragons-PosterTextless2026.jpg");
 	background-size: 100% auto;
+	background-repeat: no-repeat;
 }
 
 div.mainContent {
@@ -18,10 +19,6 @@ div.mainContent {
 @media (min-width: 600px) {
 	.column {
 		flex:50%;
-	}
-	body {
-		background-image: url("/images/HereBeDragons-PosterTextless2026.jpg");
-		background-size: 100% auto;
 	}	
 }
 
