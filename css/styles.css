@@ -8,7 +8,8 @@ body {
 div.mainContent {
 	text-align:center;
 	margin-top:5rem;
-	background-color:#f5f5f560;
+	/*background-color:#f5f5f560;*/
+	background-image:linear-gradient(#f5f5f560, #f5f5f580);
 }
 
 .playfair-display-sc-bold {
